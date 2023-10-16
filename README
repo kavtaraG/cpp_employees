@@ -1,0 +1,11 @@
+## About consol app
+- app code mode by c++ programing and c++ lows;
+- code uses iostream, fstream and string library;
+- code writen by using refferance value and function prototypes;
+
+
+## How to run the code
+- run from termunal g++ arr.cpp;
+- or run from vs code;
+
+
